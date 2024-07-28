@@ -104,6 +104,7 @@ body {
     width: 24px;
     height: 24px;
     margin-bottom: 8px;
+    margin-left: 10px;
     transition: transform 1s ease-in-out;
     transform-style: preserve-3d;
     transform-origin: center center;
@@ -170,6 +171,7 @@ body {
 .icon {
     width: 40px;
     height: 40px;
+    margin-left: 10px;
     margin-right: 10px;
     border-radius: 50%;
     overflow: hidden;
